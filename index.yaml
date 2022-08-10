@@ -3,7 +3,7 @@ entries:
   opschain:
   - apiVersion: v2
     appVersion: "2022-08-10"
-    created: "2022-08-10T14:31:52.572617852+10:00"
+    created: "2022-08-10T15:21:31.536349812+10:00"
     dependencies:
     - name: kong
       repository: https://charts.konghq.com
@@ -12,11 +12,11 @@ entries:
       repository: https://trow.io
       version: 0.3.5
     description: Opschain Helm Chart
-    digest: 550970f06fe00aea55ab25586f3f0f46bcd101e22e26872c6f216f0cab1e3d32
+    digest: b3e29ee8ad91598e2b9affb319b8677e33928d23fa8a0f2c645bb653130dda33
     home: https://opschain.io
     name: opschain
     type: application
     urls:
     - https://raw.githubusercontent.com/LimePoint/opschain-helm/master/opschain-0.1.0+2022-08-10.tgz
     version: 0.1.0+2022-08-10
-generated: "2022-08-10T14:31:52.55433408+10:00"
+generated: "2022-08-10T15:21:31.519342061+10:00"
